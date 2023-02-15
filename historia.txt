@@ -2,5 +2,5 @@ Hola. Soy Luis. Tengo 32 anios.
 
 Este es mi archivo de prueba para el curso de Git.
 
-Hoy hablaremos de su vida y obra maestra
+Maniana nos enfocaremos en su vida laboral
 
