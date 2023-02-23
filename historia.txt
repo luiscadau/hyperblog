@@ -2,5 +2,7 @@ Hola. Soy Luis. Tengo 32 anios.
 
 Este es mi archivo de prueba para el curso de Git.
 
+Anita tiene 41 anios y nacio en internet
+
 Maniana nos enfocaremos en su vida laboral
 
